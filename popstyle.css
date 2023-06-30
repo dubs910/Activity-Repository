@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(0, 128, 128, 0.6);
+    font-family:"Montserrat", sans-serif;
+    font-size: 14px;
+}
+
+h1{
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 20px;
+}
